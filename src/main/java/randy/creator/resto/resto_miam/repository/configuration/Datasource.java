@@ -1,4 +1,4 @@
-package randy.creator.resto.resto_miam.repository;
+package randy.creator.resto.resto_miam.repository.configuration;
 
 import org.springframework.context.annotation.Configuration;
 
